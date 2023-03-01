@@ -1,9 +1,9 @@
 ﻿{
   "Name": "SpeedrunPractice",
   "Author": "Underscore",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Description": "Practice mod to help improve on speedrun tech",
-  "UniqueID": "underscore.speedrun_practie",
+  "UniqueID": "underscore.speedrun_practice",
   "EntryDll": "SpeedrunPractice.dll",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": []

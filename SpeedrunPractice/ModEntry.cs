@@ -38,7 +38,7 @@ namespace SpeedrunPractice
             // ignore if player hasn't loaded a save yet
             if (!Context.IsWorldReady)
                 return;
-
+            
             this.animationCancelHelper?.Update(this.Monitor, this.Helper);
         }
 
@@ -53,5 +53,7 @@ namespace SpeedrunPractice
 
             animationCancelHelper?.Draw(e.SpriteBatch);
         }
+
+        
     }
 }
